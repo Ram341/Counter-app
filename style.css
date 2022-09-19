@@ -1,0 +1,11 @@
+.inner{
+    display: flex;
+    justify-content: center;
+
+}
+.inner div{
+    text-align: center;
+}
+.danger{
+    color: red;
+}
